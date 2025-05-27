@@ -2,3 +2,4 @@ venv/
 .idea/
 creeds/
 config.py
+orders.db
